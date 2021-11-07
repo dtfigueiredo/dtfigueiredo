@@ -1,7 +1,7 @@
 ### Olá mundo, Daniel Figueiredo aqui 🤘!
 
 - 🔭 Hoje estudo tecnologias e ferramentas Front-End.
-- 🌱 HTML, CSS, Bootstrap, JS e REACT.JS 
+- 🌱 HTML, CSS, Bootstrap, SASS, JS e REACT.JS 
 - 📫 Email para contato: dt.figueiredo90@gmail.com, ou https://danielfigueiredo.netlify.app/
 ##
 
