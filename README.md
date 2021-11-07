@@ -1,7 +1,7 @@
 ### Olá mundo, Daniel Figueiredo aqui 🤘!
 
-- 🔭 Hoje estudo tecnologias e ferramentas Front-End, para mudar de área profissional e ingressar nesse mercado de trabalho.
-- 🌱 Estudando JS e Bootstrap
+- 🔭 Hoje estudo tecnologias e ferramentas Front-End.
+- 🌱 HTML, CSS, Bootstrap, JS e REACT.JS 
 - 📫 Email para contato: dt.figueiredo90@gmail.com, ou https://danielfigueiredo.netlify.app/
 ##
 
