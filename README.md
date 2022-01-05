@@ -30,6 +30,7 @@
   
   ##
     
+ ## Daily Dev Card
 <div>
   <a href="https://app.daily.dev/KrK__"><img src="https://github.com/dtfigueiredo/dtfigueiredo/blob/main/devcard.svg" width="200" alt="Daniel Figueiredo's Dev Card"/></a>
 </div> 
