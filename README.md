@@ -5,7 +5,7 @@
 - 📫 Email para contato: dt.figueiredo90@gmail.com
 </div>
 <div>
-  <a href="https://app.daily.dev/KrK__"><img src="https://api.daily.dev/devcards/9535db76909c4f1da4cf8a45e2d37358.png?r=lxg" width="400" alt="DANIEL TEIXEIRA DE FIGUEIREDO's Dev Card"/></a>
+  <a href="https://app.daily.dev/KrK__"><img align="center" src="https://api.daily.dev/devcards/9535db76909c4f1da4cf8a45e2d37358.png?r=lxg" heigth="100" width="40" alt="DANIEL TEIXEIRA DE FIGUEIREDO's Dev Card"/></a>
 </div>
 
 ##
@@ -26,5 +26,5 @@
   
 <div> 
   <a href = "mailto:dt.figueiredo90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dtfigueiredo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dtfigueiredo" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
