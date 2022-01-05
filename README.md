@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtfigueiredo&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <div>
-  <a href="https://app.daily.dev/KrK__"><img src="https://github.com/dtfigueiredo/dtfigueiredo/blob/main/devcard.svg" width="400" alt="Daniel Figueiredo's Dev Card"/></a>
+  <a href="https://app.daily.dev/KrK__"><img src="https://github.com/dtfigueiredo/dtfigueiredo/blob/main/devcard.svg" width="200" alt="Daniel Figueiredo's Dev Card"/></a>
 </div>  
 
   ##
