@@ -1,12 +1,8 @@
 ### Olá mundo, Daniel Figueiredo aqui 🤘!
-<div>
+
 - 🔭 Hoje estudo tecnologias e ferramentas Front-End.
 - 🌱 HTML, CSS, Tailwind, Bootstrap, SASS, JS e REACT.JS 
 - 📫 Email para contato: dt.figueiredo90@gmail.com
-</div>
-<div>
-  <a href="https://app.daily.dev/KrK__"><img align="center" src="https://api.daily.dev/devcards/9535db76909c4f1da4cf8a45e2d37358.png?r=lxg" heigth="100" width="40" alt="DANIEL TEIXEIRA DE FIGUEIREDO's Dev Card"/></a>
-</div>
 
 ##
 
