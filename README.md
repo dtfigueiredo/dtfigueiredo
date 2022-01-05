@@ -1,5 +1,9 @@
 ### Olá mundo, Daniel Figueiredo aqui 🤘!
 
+<div>
+  <a href="https://app.daily.dev/KrK__"><img src="https://github.com/dtfigueiredo/dtfigueiredo/blob/main/devcard.svg" width="200" alt="Daniel Figueiredo's Dev Card"/></a>
+</div>  
+
 - 🔭 Hoje estudo tecnologias e ferramentas Front-End.
 - 🌱 HTML, CSS, Tailwind, Bootstrap, SASS, JS e REACT.JS 
 - 📫 Email para contato: dt.figueiredo90@gmail.com
@@ -11,9 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtfigueiredo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtfigueiredo&layout=compact&langs_count=7&theme=monokai"/>
 </div>
-<div>
-  <a href="https://app.daily.dev/KrK__"><img src="https://github.com/dtfigueiredo/dtfigueiredo/blob/main/devcard.svg" width="200" alt="Daniel Figueiredo's Dev Card"/></a>
-</div>  
+
 
   ##
   
