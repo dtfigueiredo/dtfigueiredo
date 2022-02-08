@@ -1,6 +1,6 @@
 # Olá mundo, Daniel Figueiredo aqui 🤘!
  
-- 🔭 Hoje estudo tecnologias e ferramentas Front-End.
+- 🔭 Desenvolvimento Front-End.
 - 🌱 HTML, CSS, Tailwind, Bootstrap, SASS, JS e REACT.JS 
 - 📫 Email para contato: dt.figueiredo90@gmail.com
 
