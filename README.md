@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/dtfigueiredo" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
-## Daily Dev Card
+## Daily Dev Card - Fonte de leitura e artigos
 <div>
   <a href="https://app.daily.dev/KrK__"><img src="https://github.com/dtfigueiredo/dtfigueiredo/blob/main/devcard.svg" width="200" alt="Daniel Figueiredo's Dev Card"/></a>
 </div> 
