@@ -1,10 +1,10 @@
 # Olá mundo, Daniel Figueiredo aqui 🤘!
  
-- 🔭 Desenvolvimento Front-End.
-- 🌱 HTML, CSS, Tailwind, Bootstrap, SASS, JS e REACT.JS 
+- 🖥️ Desenvolvimento Front-End.
+- 🎓 HTML, CSS, Tailwind, Bootstrap, SASS, JS e REACT.JS 
 
-- 🔭 Desenvolvimento Back-End.
-- 🌱 Iris-Ensemble, MySql 
+- 💻 Desenvolvimento Back-End.
+- 🎓 Iris-Ensemble, MySql 
 
 - 📫 Email para contato: dt.figueiredo90@gmail.com
 
