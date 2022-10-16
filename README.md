@@ -40,6 +40,7 @@ Sempre curioso para aprender o que eu ainda não sei.
 </div>
  
 ## Daily Dev Card - Fonte de leitura e artigos
+ 
 <div>
   <a href="https://app.daily.dev/KrK__"><img src="https://github.com/dtfigueiredo/dtfigueiredo/blob/main/devcard.svg" width="200" alt="Daniel Figueiredo's Dev Card"/></a>
 </div> 
