@@ -12,7 +12,7 @@ Sempre curioso para aprender o que eu ainda não sei.
 
 - 📫 Email para contato: dt.figueiredo90@gmail.com
 
-##
+## Stack que estou estudando/utilizando no momento:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
@@ -24,7 +24,7 @@ Sempre curioso para aprender o que eu ainda não sei.
   <img align="center" alt="Daniel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
-##
+## Entre em contato comigo
 
 <div>
   <a href="https://github.com/dtfigueiredo">
