@@ -1,12 +1,14 @@
 # Olá mundo, Daniel Figueiredo aqui 🤘!
+
+Sempre curioso para aprender o que eu ainda não sei.
  
 - 🖥️ Desenvolvimento Front-End.
 - 🎓 HTML, CSS, Tailwind, SASS, JS e REACT.JS.
-- Atualmente estudando TypeScript e Recoil.
+  - Atualmente estudando TypeScript e Recoil.
 
 - 💻 Desenvolvimento Back-End.
 - 🎓 Iris-Ensemble, NodeJs, Express, Prisma, MySql
-- Atualmente estudando NodeJs, Express, Prisma e TypeOrm
+  - Atualmente estudando NodeJs, Express, Prisma e TypeOrm
 
 - 📫 Email para contato: dt.figueiredo90@gmail.com
 
