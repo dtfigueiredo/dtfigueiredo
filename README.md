@@ -3,12 +3,11 @@
 Sempre curioso para aprender o que eu ainda não sei.
  
 - 🖥️ Desenvolvimento Front-End.
-- 🎓 HTML, CSS, Tailwind, SASS, JS e REACT.JS.
-  - Atualmente estudando TypeScript e Recoil.
+- 🎓 HTML, CSS, Tailwind, SASS, JS, TS e REACT.JS.
 
 - 💻 Desenvolvimento Back-End.
-- 🎓 Iris-Ensemble, NodeJs, Express, Prisma, MySql
-  - Atualmente estudando NodeJs, Express, Prisma e TypeOrm
+- 🎓 Iris-Ensemble, NodeJs, NestJs, Prisma, MySql
+  - Atualmente estudando NodeJs, NestJs, Prisma
 
 - 📫 Email para contato: dt.figueiredo90@gmail.com
 
@@ -22,6 +21,7 @@ Sempre curioso para aprender o que eu ainda não sei.
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Daniel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Daniel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
 </div>
 
 ## Entre em contato comigo
